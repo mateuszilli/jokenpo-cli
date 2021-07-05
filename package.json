@@ -1,0 +1,16 @@
+{
+  "name": "jokenpo-cli",
+  "version": "1.0.0",
+  "description": "The traditional hand game jokenpo in CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "jokenpo": "index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
