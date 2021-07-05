@@ -9,7 +9,7 @@
 After the dependencies are installed, just run the commands below:
 
 ```bash
-cd jokenpo/
+cd jokenpo-cli/
 npm ci
 npm link
 ```
